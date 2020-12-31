@@ -2,8 +2,8 @@
 #
 # Covid simulation code
 #
-# This is an discrete-time, age stratified, age-of-infection, compartmental model for COVID
-# Data is customized to Israel and updated to the end of December
+# This is a discrete-time, age stratified, age-of-infection, compartmental model for COVID
+# Data is customized to Israel and updated to the end of December 2020
 #
 # Main details of the model are described in 
 #
